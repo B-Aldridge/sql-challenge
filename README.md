@@ -10,7 +10,7 @@ To start, an Entity Relationship Diagram was created using https://www.quickdata
 
 ##Data Engineering
 
-The ERD was exported to create the tables. From there, the data from the 6 CSV Files (located in the CSV File folder) was imported into the new Database.
+The ERD was exported to create the tables. From there, the data from the 6 CSV Files (located in the CSV File folder) was imported.
 
 ##Data Analysis
 

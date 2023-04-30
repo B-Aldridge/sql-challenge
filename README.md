@@ -14,4 +14,4 @@ The ERD was exported (Table Schemeta (Employee)) to create the tables. From ther
 
 # Data Analysis
 
-Results can be found in the EmployeeSQL folder and code can be found in the Queries SQL file.
+Results can be found in the Output folder and code can be found in the Queries SQL file.

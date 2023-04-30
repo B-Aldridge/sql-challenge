@@ -4,6 +4,8 @@ In this challenge, the task is to explore employees who worked for a fictional c
 
 To start, an Entity Relationship Diagram was created using https://www.quickdatabasediagrams.com/
 
+![image1](ERD.png)
+
 From there, the data from the 6 CSV Files (located in the CSV File folder) provided was taken and imported into the new Database.
 
 Afterwards, the queries were ran in an effort to solve these eight questions:

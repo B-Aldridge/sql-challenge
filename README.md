@@ -4,7 +4,7 @@ In this challenge, the task is to explore the data from employees who worked for
 
 ##Data Modeling
 
-To start, an Entity Relationship Diagram was created using https://www.quickdatabasediagrams.com/
+To start, an Entity Relationship Diagram (ERD) was created using https://www.quickdatabasediagrams.com/
 
 ![image1](ERD.png)
 
